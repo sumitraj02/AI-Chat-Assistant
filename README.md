@@ -43,7 +43,7 @@ This project is a lightweight, full-stack AI-powered chat assistant built using 
 
 ### 📥 Installation
 
-git clone https://github.com/your-username/.git
+git clone https://github.com/sumitraj02/AI-Chat-Assistant
 cd ai-chat-node
 Install dependencies
 
